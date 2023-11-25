@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(52): warning C4715: 'Sum': not all control paths return a value
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(59): warning C4715: 'Count': not all control paths return a value
+  6.1r.vcxproj -> D:\edc\АП\6\6.1r\6.1r\Debug\6.1r.exe

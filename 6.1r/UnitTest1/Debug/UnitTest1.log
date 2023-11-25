@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(32,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(52): warning C4715: 'Sum': not all control paths return a value
+D:\edc\АП\6\6.1r\6.1r\6.1r\Source.cpp(59): warning C4715: 'Count': not all control paths return a value
+     Creating library D:\edc\АП\6\6.1r\6.1r\Debug\UnitTest1.lib and object D:\edc\АП\6\6.1r\6.1r\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\edc\АП\6\6.1r\6.1r\Debug\UnitTest1.dll
